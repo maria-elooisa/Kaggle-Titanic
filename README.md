@@ -31,9 +31,8 @@ A ideia era explorar a simplicidade do modelo e observar até que ponto uma deci
 ├── titanic_decision_tree.ipynb # Notebook com o treinamento do modelo
 ├── train.csv # Dados de treino
 ├── test.csv # Dados de teste
-├── gender_submission.csv # Resultados esperados do Treinamento
+├── gender_submission.csv # Resultados esperados do Kaggle
 └── README.md # Este arquivo
-
 
 ---
 
@@ -58,15 +57,6 @@ A ideia era explorar a simplicidade do modelo e observar até que ponto uma deci
 - Aplicar validação cruzada para evitar overfitting.
 - Testar outros modelos mais robustos como Random Forest ou XGBoost.
 - Realizar engenharia de atributos para melhorar a performance nos dados de teste.
-
----
-
-## 📎 Link da Submissão no Kaggle
-
-Você pode conferir os detalhes do desafio diretamente na página da competição:
-
-- **Desafio Titanic – Machine Learning from Disaster**:  
-  https://www.kaggle.com/competitions/titanic
 
 ---
 
