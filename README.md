@@ -28,11 +28,11 @@ A ideia era explorar a simplicidade do modelo e observar até que ponto uma deci
 
 ## 🗂️ Estrutura do Projeto
 
-├── titanic_decision_tree.ipynb # Notebook com o treinamento do modelo
-├── train.csv # Dados de treino
-├── test.csv # Dados de teste
-├── gender_submission.csv # Resultados esperados do Kaggle
-└── README.md # Este arquivo
+- titanic_decision_tree.ipynb # Notebook com o treinamento do modelo
+- train.csv # Dados de treino
+- test.csv # Dados de teste
+- gender_submission.csv # Resultados esperados do Kaggle
+- README.md # Este arquivo
 
 ---
 
